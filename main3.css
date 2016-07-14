@@ -1,0 +1,37 @@
+.circle{
+    width:90px;
+    height:90px;
+border-radius:100%;
+    background:gold;
+    text-align: center;
+       line-height: 90px;
+    font-size:50px;
+    font-family: Arial;}
+.circle3{
+    width:90px;
+    height:90px;
+border-radius:1000%;
+    background:red;
+    text-align: center;
+       line-height: 90px;
+    font-size: 50px;
+    font-family: Arial;
+ }
+
+ table { 
+  font-size: 40px;background-color: lightyellow;
+}
+table{font-family:DFKai-SB;font-weight:600;}
+strong{font-weight:900;color:red}
+
+strong1{color:white}
+
+
+
+
+
+
+
+
+
+
